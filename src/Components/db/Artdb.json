@@ -1,0 +1,28 @@
+[{
+    "Name": "3D Artwork",
+    "Source": "https://pro2-bar-s3-cdn-cf.myportfolio.com/303ec592-2d77-4ce1-996e-80073ad27ffa/b3b9f4c1-271f-40e3-b37a-a05901a01ff4_rw_1200.JPG?h=85a68da676e00d09fe93c8003efdc6b8",
+    "Alt": "3D render of a modern mountain witch room",
+    "WebLink": "https://chels-art.com/3d-work",
+    "DivClass": "img-container art-top"
+},
+{
+    "Name": "Fantasy Artwork",
+    "Source": "https://pro2-bar-s3-cdn-cf4.myportfolio.com/303ec592-2d77-4ce1-996e-80073ad27ffa/5192f6f4-9253-4a30-a6fa-7205d034f1bd_rw_600.JPG?h=cf20b6869aa9609e4b8afb456e087c4e",
+    "Alt": "illustration of a forest monster and a dragon",
+    "WebLink": "https://chels-art.com/",
+    "DivClass": "img-container art-top"
+},
+{
+    "Name": "Black and white Artwork",
+    "Source": "https://pro2-bar-s3-cdn-cf.myportfolio.com/303ec592-2d77-4ce1-996e-80073ad27ffa/b41f5048-c3c3-4f0e-9cd3-c34227d0854b_rw_1200.jpg?h=be7747e2b60ef2fd2fcd967604db89e8",
+    "Alt": "charcoal drawing of a deer skull",
+    "WebLink": "https://chels-art.com/bw",
+    "DivClass": "img-container art-botom"
+},
+{
+    "Name": "People Artwork",
+    "Source": "https://pro2-bar-s3-cdn-cf5.myportfolio.com/303ec592-2d77-4ce1-996e-80073ad27ffa/6f7ceb0d-b8b6-4e6e-978f-e3ce6d033f82_rw_1200.jpg?h=631610ba094414b040969771e381fc24",
+    "Alt": "illustration of a scientist and a person surrounded by plants",
+    "WebLink": "https://chels-art.com/",
+    "DivClass": "img-container art-bottom`"
+}]

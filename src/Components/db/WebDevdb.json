@@ -1,0 +1,28 @@
+[{
+    "Name": "Project 1: Tu Le Crees",
+    "Source": "https://sea-chels.github.io/Week-2-Portfolio/wk2/Assets/Images/Project-1-img.png",
+    "Alt": "website and README file",
+    "WebLink": "https://sea-chels.github.io/Project-1-Personal-Repo/",
+    "RepoLink":"https://github.com/Sea-Chels/Project-1-Personal-Repo"
+},
+{
+    "Name": "Advanced CSS Practice",
+    "Source": "https://sea-chels.github.io/Week-2-Portfolio/wk2/Assets/Images/Week-2-img.png",
+    "Alt": "authors illustration of herself",
+    "WebLink": "https://sea-chels.github.io/Week-2-Portfolio/",
+    "RepoLink":"https://github.com/Sea-Chels/Week-2-Portfolio"
+},
+{
+    "Name": "Calendar App",
+    "Source": "https://sea-chels.github.io/Week-2-Portfolio/wk2/Assets/Images/Daily-Scheduler.png",
+    "Alt": "Calendar App",
+    "WebLink": "https://sea-chels.github.io/Daily-Planner/",
+    "RepoLink":"https://github.com/Sea-Chels/Daily-Planner"
+},
+{
+    "Name": "Team Profile Generator",
+    "Source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_KCalxwcZKXg9ykwjisHXV8Vogb1Vq3HTbQ&usqp=CAU",
+    "Alt": "3Team Profile Generator App",
+    "WebLink": "https://github.com/Sea-Chels/Team-Profile-Generator/",
+    "RepoLink":"https://github.com/Sea-Chels/Team-Profile-Generator/"
+}]
