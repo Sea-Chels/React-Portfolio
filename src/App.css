@@ -68,7 +68,7 @@ nav ul {
 nav li {
   display: inline-block;
   height: 100%;
-  width: 30%;
+  width: 25%;
 }
 nav li a {
   color:var(--txtcolor);

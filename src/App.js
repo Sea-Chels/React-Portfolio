@@ -1,11 +1,17 @@
+import React from 'react';
 import './App.css';
-import Main_Page from './Components/Main-Page'
+import Main from './Components/Main-Page'
 import Header from './Components/Header'
+import Navbar from './Components/Navbar'
+import Footer from "./Components/Footer"
+
 const App = ()=>{
   return (
     <div className="App">
        <Header/>
-        <Main_Page/>
+       <Navbar/>
+       <Main/>
+       <Footer/>
     </div>
   );
 }
